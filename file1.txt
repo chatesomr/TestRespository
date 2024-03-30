@@ -1,1 +1,2 @@
-"Hello."
+In the previous video we learnt Git.
+Today we will use Git with Github
